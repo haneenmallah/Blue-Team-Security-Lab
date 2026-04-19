@@ -15,4 +15,4 @@ This project documents the end-to-end implementation of a localized Blue Team se
 - Detection Engineering: Developed search queries to identify Malicious PowerShell execution and C2 communication.
 
 ##  Project Documentation
-You can find the full technical report with screenshots and detailed analysis here: [View Technical Report](./Haneen_Mallah_Technical_Report.pdf)
+You can find the full technical report with screenshots and detailed analysis here: [View Technical Report](./Haneen_Mallah_Technical_Report.pdf?raw=true)
